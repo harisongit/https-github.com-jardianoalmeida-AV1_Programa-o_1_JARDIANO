@@ -1,0 +1,2 @@
+6- O que aconteceu com as duas contas criadas na questão 4? Explique e modifique o código para o bom funcionamento.
+R = As duas deixaram de ser do tipo Conta, e agora são classes que herdam as propriedades da classe Conta que agora é abstrata. Então as novas classes de conta corrente e poupança são obrigadas a implementar as funcionares de sacar, despositar e tranferir dinheiro.
